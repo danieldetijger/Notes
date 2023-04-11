@@ -1,5 +1,5 @@
 # Notes
-#### Video Demo:  <URL https://drive.google.com/file/d/1nYDTrda-4XRGKjIhGdiWQTLE0o3dN3_f/view?usp=share_link>
+#### Video Demo:  https://drive.google.com/file/d/1nYDTrda-4XRGKjIhGdiWQTLE0o3dN3_f/view?usp=share_link
 #### Description:
 For my final project I set out to create a webapp for keeping notes. My goals were to have a pretty, minimalistic design as to not overwhelm the user and to make the UI as intuitive as possible. I think I succeeded. Every little design choice, from the spacing between divs, to the color of certain elements was chosen to meet these goals.
 
